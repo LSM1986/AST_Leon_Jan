@@ -1,0 +1,5 @@
+'cmd' and press enter.
+
+- npm install http-server -g
+- http-server /path/to/docroot
+Open http://localhost:8080/ in your browser.
